@@ -1,5 +1,6 @@
 Learning about atoms ..
 Atoms are called parmanu in Hindi
 Atoms have electrons, protons and neutrons.
-electrons are negatively charged and protrons are positively charged, neutrons  have no chanrge!
+electrons are negatively charged and protrons are positively charged, neutrons  have no change!
 Electrons revolve around the nucleus in orbits
+Can this directly be pushed to origin main from feature_01 local branch? Atom is netural because electon charge and proton charge balance each other out!!
