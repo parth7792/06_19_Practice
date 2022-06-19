@@ -6,4 +6,3 @@ Electrons revolve around the nucleus in orbits
 Can this directly be pushed to origin main from feature_01 local branch? Atom is netural because electon charge and proton charge balance each other out!!
 9 x 10^-31
 Neutrons live in the nucleus
-
