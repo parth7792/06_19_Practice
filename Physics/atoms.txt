@@ -8,3 +8,5 @@ Can this directly be pushed to origin main from feature_01 local branch? Atom is
 Neutrons live in the nucleus
 Atoms make up molecules
 Protons live in nucleus
+
+Session_2: Parmanu
